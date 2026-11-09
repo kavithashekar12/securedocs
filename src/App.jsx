@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 
-const API = const API =const API = 'https://securedocs-a4tn.onrender.com/api' 
+const API  = 'https://securedocs-a4tn.onrender.com/api'
 function App() {
   const [token, setToken] = useState('')
   const [user, setUser] = useState(null)
